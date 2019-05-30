@@ -33,6 +33,7 @@
 
 NOTE: Github is not rendering the plotly graphs as of now and so to see the plots you have to follows the follwing thing:
 
-Here in the below image hover over that circular sign and then click on the link. It will send you to another page where you can see the whole code and plots as well.
+Open the ipynb files hover over that circular sign and then click on the link. It will send you to another page where you can see the whole code and plots as well.
 
+e.g.
 ![Screenshot (12)](https://user-images.githubusercontent.com/33928040/58653452-5be7cf00-8333-11e9-8a41-2e75ccbf921a.png)
